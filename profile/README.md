@@ -16,7 +16,7 @@ Lichtman), Massachusetts General Hospital (PI: Yendiki), Massachusetts Institute
 
 In this GitHub organization are the source code, configuration, and 
  documentation for the [LINC Cloud Platform](https://lincbrain.org/), which is 
- used by the LINC team to share data and perform analysis.  As 
+ used by the LINC team to share data and run analysis.  As 
  analysis methods become available they will be published here.
 
 ## Quick Links
