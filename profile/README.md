@@ -23,3 +23,4 @@ In this GitHub organization are the source code, configuration, and
 
 - :computer: [LINC Homepage](https://connects.mgh.harvard.edu/)
 - :cloud: [LINC Cloud Platform](https://lincbrain.org/)
+- :page_facing_up: [LINC MRI – X-ray Pipeline](https://github.com/UCL-MXI-Bio/2026-chourrout-linc-dmri-xray-pipeline)
